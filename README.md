@@ -16,6 +16,7 @@
 | 03 | Treasure Island Game | ✅ |
 | 04 | Rock Paper Scissors | ✅ |
 | 05 | Password Generator | ✅ |
+| 06 | Hangman Game | ✅ |
 
 📌 [Follow my journey here](https://github.com/saadmaleem/100-days-of-code-python)
 
